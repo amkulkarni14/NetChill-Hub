@@ -148,5 +148,6 @@ This project demonstrates SDD methodology with modern web design. To contribute:
 MIT License - feel free to use this project as a learning resource or starting point for your own movie applications.
 
 ---
+ScreenShots of Application:
 
-**Built with ❤️ using Software Design Document principles, modern web technologies, and cinematic design aesthetics.**
+![alt text](image.png)
